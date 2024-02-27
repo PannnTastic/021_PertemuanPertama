@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-	float njejari, nluas;
+	double njejari, nluas;
 
 	cout << "=========Luas Lingkaran=========";
 
