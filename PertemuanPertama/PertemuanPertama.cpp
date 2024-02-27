@@ -3,16 +3,16 @@ using namespace std;
 
 int main()
 {
-	float a, b;
+	float njejari, nluas;
 
 	cout << "=========Luas Lingkaran=========";
 
-	cout << "Masukkan jari-jari = ";
+	cout << "Masukkan jejari = ";
 	cin >> a;
 
-	b = 3.14 * a * a;
+	b = 3.14 * njejari * njejari;
 
-	cout << "Luas Lingkaran Adalah = " << b << endl;
+	cout << "Luas Lingkaran Adalah = " << nluas << endl;
 
    system("pause");
 }
