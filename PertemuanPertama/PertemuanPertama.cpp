@@ -5,6 +5,8 @@ int main()
 {
 	float a, b;
 
+	cout << "=========Luas Lingkaran=========";
+
 	cout << "Masukkan jari-jari = ";
 	cin >> a;
 
